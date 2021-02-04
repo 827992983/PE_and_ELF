@@ -8,4 +8,4 @@ PE是Windows下可执行文件的格式，ELF是Linux下可执行文件的格式
 
 ### 资料
 1. 《PE结构.pdf》是PE文件相关结构体
-2. 《PE结构.pdf》是ELF文件格式说明
+2. 《ELF手册-中文版.pdf》是ELF文件格式说明
